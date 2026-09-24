@@ -1,2 +1,2 @@
-# AI-Project-143-Izvekov-Zaharov-IZ-
+# AI-Project №143 Izvekov-Zaharov (IZ)
 .
