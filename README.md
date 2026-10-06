@@ -1,7 +1,7 @@
-# AI-Project №143 Izvekov-Zaharov (IZ)
+# AI-Project №1 Izvekov-Bobilev (IZ)
 
 #Тема:
-#Куратор: Андрей Захаров
+#Куратор: Денис Бобылев
 Состав: Георгий Извеков
 
 План работы:
